@@ -1,0 +1,78 @@
+{
+  "name": "Rojo-Project-Boilerplate",
+  "servePort": 34872,
+  "servePlaceIds": [0],
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src/ReplicatedStorage",
+      "$ignoreUnknownInstances": true
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/ServerScriptService",
+      "$ignoreUnknownInstances": true
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayerScripts",
+        "$ignoreUnknownInstances": true
+      }
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      "$path": "src/Workspace",
+      "$ignoreUnknownInstances": true
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$path": "src/ServerStorage",
+      "$ignoreUnknownInstances": true
+    },
+    "Lighting": {
+      "$className": "Lighting",
+      "$path": "src/Lighting",
+      "$ignoreUnknownInstances": true,
+      "$properties": {
+        "Ambient": [0.275, 0.275, 0.275],
+        "OutdoorAmbient": [0.275, 0.275, 0.275],
+        "Brightness": 3,
+        "EnvironmentDiffuseScale": 1,
+        "EnvironmentSpecularScale": 1,
+        "GlobalShadows": true,
+        "TimeOfDay": "12:00:00",
+        "ShadowSoftness": 0.2,
+        "Technology": "ShadowMap",
+        "ExposureCompensation": 0.0,
+        "GeographicLatitude": 0,
+        "ColorShift_Top": [0,0,0],
+        "ColorShift_Bottom": [0,0,0]
+      }
+    },
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "$path": "src/ReplicatedFirst",
+      "$ignoreUnknownInstances": true
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$path": "src/StarterGui",
+      "$ignoreUnknownInstances": true
+    },
+    "SoundService": {
+      "$className": "SoundService",
+      "$path": "src/SoundService",
+      "$ignoreUnknownInstances": true
+    },
+    "TextChatService": {
+      "$className": "TextChatService",
+      "$path": "src/TextChatService",
+      "$ignoreUnknownInstances": true,
+      "$properties": {
+        "ChatVersion": "TextChatService"
+      }
+    }
+  }
+}
