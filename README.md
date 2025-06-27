@@ -46,7 +46,7 @@ rojo serve
 
 - This will watch your files and sync changes to the open place in Studio.
 - Make sure the place open in Studio matches the one you built.
-- Lastly, open the Rojo plungin on the studio and make sure the port number is similar to the one in `default.project.json` and hit connect.
+- Lastly, open the Rojo plugin on the studio and make sure the port number is similar to the one in `default.project.json` and hit connect.
 
 #### 4. Edit and Sync
 
